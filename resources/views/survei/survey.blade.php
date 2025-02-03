@@ -50,7 +50,7 @@
                                                 <strong>{{ $questions->count() + 1 }}/{{ $questions->count() + 1 }}</strong>
                                             </h3>
                                             <div class="summary">
-                                                <h5>Terimakasih telah mengisi kuisioner Tracer Study SMKN 1 Proppo</h5>
+                                                <h5>Terimakasih telah mengisi kuisioner Tracer Study SMK ANTARTIKA 1 Sidoarjo</h5>
                                             </div>
                                         </div>
                                         <!-- /step-->

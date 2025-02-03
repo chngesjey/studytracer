@@ -25,7 +25,7 @@ class DatabaseSeeder extends Seeder
             'remember_token' =>  \Illuminate\Support\Str::random(10),
             'role' => RoleEnum::Admin->value
         ]);
-        \App\Models\User::factory(50)->create();
+        // \App\Models\User::factory(50)->create();
         $this->call(AlumniSeeder::class);
         $this->call(KuesionerSeeder::class);
     }

@@ -43,7 +43,7 @@
                 </div>
             </div>
             <!-- Aktifkan Ini jika ingin menampilkan grafik bulat -->
-            <!-- <div class="card mt-2">
+            <div class="card mt-2">
                 <div class="card-body">
                     <div class="row">
                         <div class="col-4">
@@ -57,9 +57,9 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <!-- Aktifkan Ini Jika Ingin Menampilkan Grafik Batang -->
-            <!-- <div class="card mt-2">
+            <div class="card mt-2">
                 <div class="card-body">
                     <div class="row">
                         <div class="col">
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 @endsection
